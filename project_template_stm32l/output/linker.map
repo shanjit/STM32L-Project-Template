@@ -1,0 +1,1567 @@
+Archive member included because of file (symbol)
+
+/home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-init.o)
+                              ./src/startup_stm32l1xx_md.o (__libc_init_array)
+
+Allocating common symbols
+Common symbol       size              file
+
+USART_InitStructure
+                    0x10              ./src/main.o
+RCC_Clocks          0x10              ./src/main.o
+
+Discarded input sections
+
+ .text          0x00000000        0x0 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crti.o
+ .data          0x00000000        0x0 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crti.o
+ .bss           0x00000000        0x0 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crti.o
+ .data          0x00000000        0x4 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+ .text          0x00000000      0x28c ./src/core_cm3.o
+ .data          0x00000000        0x0 ./src/core_cm3.o
+ .bss           0x00000000        0x0 ./src/core_cm3.o
+ .data          0x00000000        0x0 ./src/main.o
+ .text          0x00000000       0x14 ./src/startup_stm32l1xx_md.o
+ .data          0x00000000        0x0 ./src/startup_stm32l1xx_md.o
+ .bss           0x00000000        0x0 ./src/startup_stm32l1xx_md.o
+ .data          0x00000000        0x0 ./src/stm32l1xx_it.o
+ .bss           0x00000000        0x0 ./src/stm32l1xx_it.o
+ .text          0x00000000      0xb08 ./src/stm32l_discovery_lcd.o
+ .data          0x00000000        0x0 ./src/stm32l_discovery_lcd.o
+ .bss           0x00000000        0x8 ./src/stm32l_discovery_lcd.o
+ .rodata        0x00000000       0x48 ./src/stm32l_discovery_lcd.o
+ .bss           0x00000000        0x0 ./src/system_stm32l1xx.o
+ .text          0x00000000      0x1a4 ./peri_library/peri_src/misc.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/misc.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/misc.o
+ .text          0x00000000      0xcb8 ./peri_library/peri_src/stm32l1xx_adc.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_adc.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_adc.o
+ .text          0x00000000      0x16c ./peri_library/peri_src/stm32l1xx_comp.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_comp.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_comp.o
+ .text          0x00000000       0xd4 ./peri_library/peri_src/stm32l1xx_crc.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_crc.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_crc.o
+ .text          0x00000000      0x49c ./peri_library/peri_src/stm32l1xx_dac.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_dac.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_dac.o
+ .text          0x00000000      0x100 ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+ .text          0x00000000      0x38c ./peri_library/peri_src/stm32l1xx_dma.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_dma.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_dma.o
+ .text          0x00000000      0x254 ./peri_library/peri_src/stm32l1xx_exti.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_exti.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_exti.o
+ .text          0x00000000      0xb34 ./peri_library/peri_src/stm32l1xx_flash.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_flash.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_flash.o
+ .text          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+ .data          0x00000000      0x2c0 ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_gpio.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_gpio.o
+ .text          0x00000000      0x9ac ./peri_library/peri_src/stm32l1xx_i2c.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_i2c.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_i2c.o
+ .text          0x00000000       0xd0 ./peri_library/peri_src/stm32l1xx_iwdg.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_iwdg.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_iwdg.o
+ .text          0x00000000      0x364 ./peri_library/peri_src/stm32l1xx_lcd.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_lcd.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_lcd.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_pwr.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_pwr.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_rcc.o
+ .text          0x00000000     0x1330 ./peri_library/peri_src/stm32l1xx_rtc.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_rtc.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_rtc.o
+ .text          0x00000000      0x54c ./peri_library/peri_src/stm32l1xx_spi.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_spi.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_spi.o
+ .text          0x00000000      0x45c ./peri_library/peri_src/stm32l1xx_syscfg.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_syscfg.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_syscfg.o
+ .text          0x00000000     0x1864 ./peri_library/peri_src/stm32l1xx_tim.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_tim.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_tim.o
+ .text          0x00000000      0x970 ./peri_library/peri_src/stm32l1xx_usart.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_usart.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_usart.o
+ .text          0x00000000      0x140 ./peri_library/peri_src/stm32l1xx_wwdg.o
+ .data          0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_wwdg.o
+ .bss           0x00000000        0x0 ./peri_library/peri_src/stm32l1xx_wwdg.o
+ .data          0x00000000        0x0 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-init.o)
+ .bss           0x00000000        0x0 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-init.o)
+ .text          0x00000000        0x0 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtend.o
+ .data          0x00000000        0x0 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtend.o
+ .bss           0x00000000        0x0 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtend.o
+ .jcr           0x00000000        0x4 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtend.o
+ .text          0x00000000        0x0 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtn.o
+ .data          0x00000000        0x0 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtn.o
+ .bss           0x00000000        0x0 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtn.o
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+FLASH            0x08000000         0x00020000         xr
+RAM              0x20000000         0x00004000         xrw
+MEMORY_B1        0x60000000         0x00000000         xr
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crti.o
+LOAD /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+LOAD ./src/core_cm3.o
+LOAD ./src/main.o
+LOAD ./src/startup_stm32l1xx_md.o
+LOAD ./src/stm32l1xx_it.o
+LOAD ./src/stm32l_discovery_lcd.o
+LOAD ./src/system_stm32l1xx.o
+LOAD ./peri_library/peri_src/misc.o
+LOAD ./peri_library/peri_src/stm32l1xx_adc.o
+LOAD ./peri_library/peri_src/stm32l1xx_comp.o
+LOAD ./peri_library/peri_src/stm32l1xx_crc.o
+LOAD ./peri_library/peri_src/stm32l1xx_dac.o
+LOAD ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+LOAD ./peri_library/peri_src/stm32l1xx_dma.o
+LOAD ./peri_library/peri_src/stm32l1xx_exti.o
+LOAD ./peri_library/peri_src/stm32l1xx_flash.o
+LOAD ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+LOAD ./peri_library/peri_src/stm32l1xx_gpio.o
+LOAD ./peri_library/peri_src/stm32l1xx_i2c.o
+LOAD ./peri_library/peri_src/stm32l1xx_iwdg.o
+LOAD ./peri_library/peri_src/stm32l1xx_lcd.o
+LOAD ./peri_library/peri_src/stm32l1xx_pwr.o
+LOAD ./peri_library/peri_src/stm32l1xx_rcc.o
+LOAD ./peri_library/peri_src/stm32l1xx_rtc.o
+LOAD ./peri_library/peri_src/stm32l1xx_spi.o
+LOAD ./peri_library/peri_src/stm32l1xx_syscfg.o
+LOAD ./peri_library/peri_src/stm32l1xx_tim.o
+LOAD ./peri_library/peri_src/stm32l1xx_usart.o
+LOAD ./peri_library/peri_src/stm32l1xx_wwdg.o
+LOAD /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libstdc++.a
+LOAD /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libm.a
+START GROUP
+LOAD /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/libgcc.a
+LOAD /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a
+END GROUP
+LOAD /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtend.o
+LOAD /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtn.o
+                0x20004000                _estack = 0x20004000
+                0x00000000                _Min_Heap_Size = 0x0
+                0x00000080                _Min_Stack_Size = 0x80
+
+.isr_vector     0x08000000      0x10c
+                0x08000000                . = ALIGN (0x4)
+ *(.isr_vector)
+ .isr_vector    0x08000000      0x10c ./src/startup_stm32l1xx_md.o
+                0x08000000                g_pfnVectors
+                0x0800010c                . = ALIGN (0x4)
+
+.text           0x0800010c     0x185c
+                0x0800010c                . = ALIGN (0x4)
+ *(.text)
+ .text          0x0800010c       0x30 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+ .text          0x0800013c      0x260 ./src/main.o
+                0x080001e8                Config_Systick
+                0x08000210                main
+                0x08000248                __assert_func
+                0x08000258                __assert
+                0x0800027c                RCC_Configuration
+                0x080002e0                Init_GPIOs
+                0x08000350                Delay
+                0x08000378                TimingDelay_Decrement
+ .text          0x0800039c       0x5c ./src/stm32l1xx_it.o
+                0x0800039c                NMI_Handler
+                0x080003a8                HardFault_Handler
+                0x080003b0                MemManage_Handler
+                0x080003b8                BusFault_Handler
+                0x080003c0                UsageFault_Handler
+                0x080003c8                SVC_Handler
+                0x080003d4                DebugMon_Handler
+                0x080003e0                PendSV_Handler
+                0x080003ec                SysTick_Handler
+ .text          0x080003f8      0x30c ./src/system_stm32l1xx.o
+                0x080003f8                SystemInit
+                0x08000464                SystemCoreClockUpdate
+ .text          0x08000704      0x4b4 ./peri_library/peri_src/stm32l1xx_gpio.o
+                0x08000704                GPIO_DeInit
+                0x080007f8                GPIO_Init
+                0x08000950                GPIO_StructInit
+                0x0800098c                GPIO_PinLockConfig
+                0x080009d0                GPIO_ReadInputDataBit
+                0x08000a10                GPIO_ReadInputData
+                0x08000a2c                GPIO_ReadOutputDataBit
+                0x08000a6c                GPIO_ReadOutputData
+                0x08000a88                GPIO_SetBits
+                0x08000aa4                GPIO_ResetBits
+                0x08000ac0                GPIO_WriteBit
+                0x08000af0                GPIO_Write
+                0x08000b0c                GPIO_PinAFConfig
+ .text          0x08000bb8      0x314 ./peri_library/peri_src/stm32l1xx_pwr.o
+                0x08000bd0                PWR_DeInit
+                0x08000bf0                PWR_RTCAccessCmd
+                0x08000c10                PWR_PVDLevelConfig
+                0x08000c4c                PWR_PVDCmd
+                0x08000c6c                PWR_WakeUpPinCmd
+                0x08000c9c                PWR_FastWakeUpCmd
+                0x08000cbc                PWR_UltraLowPowerCmd
+                0x08000cdc                PWR_VoltageScalingConfig
+                0x08000d1c                PWR_EnterLowPowerRunMode
+                0x08000d6c                PWR_EnterSleepMode
+                0x08000dc8                PWR_EnterSTOPMode
+                0x08000e30                PWR_EnterSTANDBYMode
+                0x08000e68                PWR_GetFlagStatus
+                0x08000ea4                PWR_ClearFlag
+ .text          0x08000ecc      0x9e8 ./peri_library/peri_src/stm32l1xx_rcc.o
+                0x08000ecc                RCC_DeInit
+                0x08000f2c                RCC_HSEConfig
+                0x08000f54                RCC_WaitForHSEStartUp
+                0x08000fb8                RCC_AdjustMSICalibrationValue
+                0x08000fd8                RCC_MSIRangeConfig
+                0x08001014                RCC_MSICmd
+                0x08001034                RCC_AdjustHSICalibrationValue
+                0x08001074                RCC_HSICmd
+                0x08001094                RCC_LSEConfig
+                0x080010bc                RCC_LSICmd
+                0x080010dc                RCC_PLLConfig
+                0x08001114                RCC_PLLCmd
+                0x08001134                RCC_ClockSecuritySystemCmd
+                0x08001154                RCC_MCOConfig
+                0x08001180                RCC_SYSCLKConfig
+                0x080011bc                RCC_GetSYSCLKSource
+                0x080011d8                RCC_HCLKConfig
+                0x08001214                RCC_PCLK1Config
+                0x08001250                RCC_PCLK2Config
+                0x08001290                RCC_GetClocksFreq
+                0x08001468                RCC_RTCCLKConfig
+                0x080014d0                RCC_RTCCLKCmd
+                0x080014f0                RCC_RTCResetCmd
+                0x08001510                RCC_AHBPeriphClockCmd
+                0x08001554                RCC_APB2PeriphClockCmd
+                0x08001598                RCC_APB1PeriphClockCmd
+                0x080015dc                RCC_AHBPeriphResetCmd
+                0x08001620                RCC_APB2PeriphResetCmd
+                0x08001664                RCC_APB1PeriphResetCmd
+                0x080016a8                RCC_AHBPeriphClockLPModeCmd
+                0x080016ec                RCC_APB2PeriphClockLPModeCmd
+                0x08001730                RCC_APB1PeriphClockLPModeCmd
+                0x08001774                RCC_ITConfig
+                0x080017c4                RCC_GetFlagStatus
+                0x08001838                RCC_ClearFlag
+                0x08001854                RCC_GetITStatus
+                0x08001894                RCC_ClearITPendingBit
+ .text          0x080018b4       0x50 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-init.o)
+                0x080018b4                __libc_init_array
+ *(.text*)
+ .text.Reset_Handler
+                0x08001904       0x48 ./src/startup_stm32l1xx_md.o
+                0x08001904                Reset_Handler
+ .text.Default_Handler
+                0x0800194c        0x2 ./src/startup_stm32l1xx_md.o
+                0x0800194c                RTC_Alarm_IRQHandler
+                0x0800194c                EXTI2_IRQHandler
+                0x0800194c                TIM10_IRQHandler
+                0x0800194c                USB_HP_IRQHandler
+                0x0800194c                TIM6_IRQHandler
+                0x0800194c                PVD_IRQHandler
+                0x0800194c                EXTI3_IRQHandler
+                0x0800194c                EXTI0_IRQHandler
+                0x0800194c                I2C2_EV_IRQHandler
+                0x0800194c                SPI1_IRQHandler
+                0x0800194c                USB_FS_WKUP_IRQHandler
+                0x0800194c                DMA1_Channel4_IRQHandler
+                0x0800194c                ADC1_IRQHandler
+                0x0800194c                USART3_IRQHandler
+                0x0800194c                DMA1_Channel7_IRQHandler
+                0x0800194c                LCD_IRQHandler
+                0x0800194c                TIM4_IRQHandler
+                0x0800194c                I2C1_EV_IRQHandler
+                0x0800194c                DMA1_Channel6_IRQHandler
+                0x0800194c                TIM3_IRQHandler
+                0x0800194c                RCC_IRQHandler
+                0x0800194c                DMA1_Channel1_IRQHandler
+                0x0800194c                Default_Handler
+                0x0800194c                EXTI15_10_IRQHandler
+                0x0800194c                TIM7_IRQHandler
+                0x0800194c                EXTI9_5_IRQHandler
+                0x0800194c                TIM9_IRQHandler
+                0x0800194c                TAMPER_STAMP_IRQHandler
+                0x0800194c                RTC_WKUP_IRQHandler
+                0x0800194c                SPI2_IRQHandler
+                0x0800194c                DMA1_Channel5_IRQHandler
+                0x0800194c                USB_LP_IRQHandler
+                0x0800194c                EXTI4_IRQHandler
+                0x0800194c                DMA1_Channel3_IRQHandler
+                0x0800194c                COMP_IRQHandler
+                0x0800194c                WWDG_IRQHandler
+                0x0800194c                TIM2_IRQHandler
+                0x0800194c                DAC_IRQHandler
+                0x0800194c                EXTI1_IRQHandler
+                0x0800194c                TIM11_IRQHandler
+                0x0800194c                USART2_IRQHandler
+                0x0800194c                I2C2_ER_IRQHandler
+                0x0800194c                DMA1_Channel2_IRQHandler
+                0x0800194c                FLASH_IRQHandler
+                0x0800194c                USART1_IRQHandler
+                0x0800194c                I2C1_ER_IRQHandler
+ *(.rodata)
+ *(.rodata*)
+ *(.glue_7)
+ .glue_7        0x00000000        0x0 linker stubs
+ *(.glue_7t)
+ .glue_7t       0x00000000        0x0 linker stubs
+ *(.eh_frame)
+ *(.init)
+ *fill*         0x0800194e        0x2 00
+ .init          0x08001950        0x4 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crti.o
+                0x08001950                _init
+ .init          0x08001954        0x8 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtn.o
+ *(.fini)
+ .fini          0x0800195c        0x4 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crti.o
+                0x0800195c                _fini
+ .fini          0x08001960        0x8 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtn.o
+                0x08001968                . = ALIGN (0x4)
+                0x08001968                _etext = .
+
+.vfp11_veneer   0x08001968        0x0
+ .vfp11_veneer  0x00000000        0x0 linker stubs
+
+.v4_bx          0x08001968        0x0
+ .v4_bx         0x00000000        0x0 linker stubs
+
+.ARM.extab
+ *(.ARM.extab* .gnu.linkonce.armextab.*)
+
+.ARM            0x08001968        0x0
+                0x08001968                __exidx_start = .
+ *(.ARM.exidx*)
+                0x08001968                __exidx_end = .
+
+.preinit_array  0x08001968        0x0
+                0x08001968                PROVIDE (__preinit_array_start, .)
+ *(.preinit_array*)
+                0x08001968                PROVIDE (__preinit_array_end, .)
+
+.init_array     0x08001968        0x4
+                0x08001968                PROVIDE (__init_array_start, .)
+ *(SORT(.init_array.*))
+ *(.init_array*)
+ .init_array    0x08001968        0x4 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+                0x0800196c                PROVIDE (__init_array_end, .)
+
+.fini_array     0x0800196c        0x4
+                0x0800196c                PROVIDE (__fini_array_start, .)
+ *(.fini_array*)
+ .fini_array    0x0800196c        0x4 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+ *(SORT(.fini_array.*))
+                0x08001970                PROVIDE (__fini_array_end, .)
+                0x08001970                _sidata = .
+
+.data           0x20000000       0x3c load address 0x08001970
+                0x20000000                . = ALIGN (0x4)
+                0x20000000                _sdata = .
+ *(.data)
+ .data          0x20000000       0x20 ./src/system_stm32l1xx.o
+                0x20000000                SystemCoreClock
+                0x20000004                PLLMulTable
+                0x20000010                AHBPrescTable
+ .data          0x20000020       0x1c ./peri_library/peri_src/stm32l1xx_rcc.o
+ *(.data*)
+                0x2000003c                . = ALIGN (0x4)
+                0x2000003c                _edata = .
+
+.jcr            0x2000003c        0x0 load address 0x080019ac
+ .jcr           0x2000003c        0x0 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+                0x2000003c                . = ALIGN (0x4)
+
+.bss            0x2000003c       0x2c load address 0x080019ac
+                0x2000003c                _sbss = .
+                0x2000003c                __bss_start__ = _sbss
+ *(.bss)
+ .bss           0x2000003c        0x1 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+ *fill*         0x2000003d        0x3 00
+ .bss           0x20000040        0x8 ./src/main.o
+                0x20000044                KeyPressed
+ *(.bss*)
+ *(COMMON)
+ COMMON         0x20000048       0x20 ./src/main.o
+                0x20000048                USART_InitStructure
+                0x20000058                RCC_Clocks
+                0x20000068                . = ALIGN (0x4)
+                0x20000068                _ebss = .
+                0x20000068                __bss_end__ = _ebss
+
+._user_heap_stack
+                0x20000068       0x80 load address 0x080019d8
+                0x20000068                . = ALIGN (0x4)
+                0x20000068                PROVIDE (end, .)
+                0x20000068                PROVIDE (_end, .)
+                0x20000068                . = (. + _Min_Heap_Size)
+                0x200000e8                . = (. + _Min_Stack_Size)
+ *fill*         0x20000068       0x80 00
+                0x200000e8                . = ALIGN (0x4)
+
+.memory_b1_text
+ *(.mb1text)
+ *(.mb1text*)
+ *(.mb1rodata)
+ *(.mb1rodata*)
+
+/DISCARD/
+ libc.a(*)
+ libm.a(*)
+ libgcc.a(*)
+
+.ARM.attributes
+                0x00000000       0x25
+ *(.ARM.attributes)
+ .ARM.attributes
+                0x00000000       0x19 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crti.o
+ .ARM.attributes
+                0x00000019       0x29 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+ .ARM.attributes
+                0x00000042       0x31 ./src/core_cm3.o
+ .ARM.attributes
+                0x00000073       0x31 ./src/main.o
+ .ARM.attributes
+                0x000000a4       0x21 ./src/startup_stm32l1xx_md.o
+ .ARM.attributes
+                0x000000c5       0x31 ./src/stm32l1xx_it.o
+ .ARM.attributes
+                0x000000f6       0x31 ./src/stm32l_discovery_lcd.o
+ .ARM.attributes
+                0x00000127       0x31 ./src/system_stm32l1xx.o
+ .ARM.attributes
+                0x00000158       0x31 ./peri_library/peri_src/misc.o
+ .ARM.attributes
+                0x00000189       0x31 ./peri_library/peri_src/stm32l1xx_adc.o
+ .ARM.attributes
+                0x000001ba       0x31 ./peri_library/peri_src/stm32l1xx_comp.o
+ .ARM.attributes
+                0x000001eb       0x31 ./peri_library/peri_src/stm32l1xx_crc.o
+ .ARM.attributes
+                0x0000021c       0x31 ./peri_library/peri_src/stm32l1xx_dac.o
+ .ARM.attributes
+                0x0000024d       0x31 ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+ .ARM.attributes
+                0x0000027e       0x31 ./peri_library/peri_src/stm32l1xx_dma.o
+ .ARM.attributes
+                0x000002af       0x31 ./peri_library/peri_src/stm32l1xx_exti.o
+ .ARM.attributes
+                0x000002e0       0x31 ./peri_library/peri_src/stm32l1xx_flash.o
+ .ARM.attributes
+                0x00000311       0x31 ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+ .ARM.attributes
+                0x00000342       0x31 ./peri_library/peri_src/stm32l1xx_gpio.o
+ .ARM.attributes
+                0x00000373       0x31 ./peri_library/peri_src/stm32l1xx_i2c.o
+ .ARM.attributes
+                0x000003a4       0x31 ./peri_library/peri_src/stm32l1xx_iwdg.o
+ .ARM.attributes
+                0x000003d5       0x31 ./peri_library/peri_src/stm32l1xx_lcd.o
+ .ARM.attributes
+                0x00000406       0x31 ./peri_library/peri_src/stm32l1xx_pwr.o
+ .ARM.attributes
+                0x00000437       0x31 ./peri_library/peri_src/stm32l1xx_rcc.o
+ .ARM.attributes
+                0x00000468       0x31 ./peri_library/peri_src/stm32l1xx_rtc.o
+ .ARM.attributes
+                0x00000499       0x31 ./peri_library/peri_src/stm32l1xx_spi.o
+ .ARM.attributes
+                0x000004ca       0x31 ./peri_library/peri_src/stm32l1xx_syscfg.o
+ .ARM.attributes
+                0x000004fb       0x31 ./peri_library/peri_src/stm32l1xx_tim.o
+ .ARM.attributes
+                0x0000052c       0x31 ./peri_library/peri_src/stm32l1xx_usart.o
+ .ARM.attributes
+                0x0000055d       0x31 ./peri_library/peri_src/stm32l1xx_wwdg.o
+ .ARM.attributes
+                0x0000058e       0x29 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-init.o)
+ .ARM.attributes
+                0x000005b7       0x29 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtend.o
+ .ARM.attributes
+                0x000005e0       0x19 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtn.o
+OUTPUT(project_template_stm32l elf32-littlearm)
+
+.debug_abbrev   0x00000000     0x2468
+ .debug_abbrev  0x00000000       0xd7 ./src/core_cm3.o
+ .debug_abbrev  0x000000d7      0x237 ./src/main.o
+ .debug_abbrev  0x0000030e       0x86 ./src/stm32l1xx_it.o
+ .debug_abbrev  0x00000394      0x20c ./src/stm32l_discovery_lcd.o
+ .debug_abbrev  0x000005a0      0x17c ./src/system_stm32l1xx.o
+ .debug_abbrev  0x0000071c      0x137 ./peri_library/peri_src/misc.o
+ .debug_abbrev  0x00000853      0x15f ./peri_library/peri_src/stm32l1xx_adc.o
+ .debug_abbrev  0x000009b2      0x147 ./peri_library/peri_src/stm32l1xx_comp.o
+ .debug_abbrev  0x00000af9      0x10c ./peri_library/peri_src/stm32l1xx_crc.o
+ .debug_abbrev  0x00000c05      0x174 ./peri_library/peri_src/stm32l1xx_dac.o
+ .debug_abbrev  0x00000d79       0xdc ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+ .debug_abbrev  0x00000e55      0x150 ./peri_library/peri_src/stm32l1xx_dma.o
+ .debug_abbrev  0x00000fa5      0x18d ./peri_library/peri_src/stm32l1xx_exti.o
+ .debug_abbrev  0x00001132      0x166 ./peri_library/peri_src/stm32l1xx_flash.o
+ .debug_abbrev  0x00001298      0x12f ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+ .debug_abbrev  0x000013c7      0x177 ./peri_library/peri_src/stm32l1xx_gpio.o
+ .debug_abbrev  0x0000153e      0x15f ./peri_library/peri_src/stm32l1xx_i2c.o
+ .debug_abbrev  0x0000169d       0xfc ./peri_library/peri_src/stm32l1xx_iwdg.o
+ .debug_abbrev  0x00001799      0x17d ./peri_library/peri_src/stm32l1xx_lcd.o
+ .debug_abbrev  0x00001916      0x1b9 ./peri_library/peri_src/stm32l1xx_pwr.o
+ .debug_abbrev  0x00001acf      0x1b9 ./peri_library/peri_src/stm32l1xx_rcc.o
+ .debug_abbrev  0x00001c88      0x16d ./peri_library/peri_src/stm32l1xx_rtc.o
+ .debug_abbrev  0x00001df5      0x150 ./peri_library/peri_src/stm32l1xx_spi.o
+ .debug_abbrev  0x00001f45      0x13f ./peri_library/peri_src/stm32l1xx_syscfg.o
+ .debug_abbrev  0x00002084      0x174 ./peri_library/peri_src/stm32l1xx_tim.o
+ .debug_abbrev  0x000021f8      0x150 ./peri_library/peri_src/stm32l1xx_usart.o
+ .debug_abbrev  0x00002348      0x120 ./peri_library/peri_src/stm32l1xx_wwdg.o
+
+.debug_info     0x00000000     0xbaeb
+ .debug_info    0x00000000      0x54c ./src/core_cm3.o
+ .debug_info    0x0000054c      0xa20 ./src/main.o
+ .debug_info    0x00000f6c      0x162 ./src/stm32l1xx_it.o
+ .debug_info    0x000010ce      0x65c ./src/stm32l_discovery_lcd.o
+ .debug_info    0x0000172a      0x55a ./src/system_stm32l1xx.o
+ .debug_info    0x00001c84      0x548 ./peri_library/peri_src/misc.o
+ .debug_info    0x000021cc      0xd12 ./peri_library/peri_src/stm32l1xx_adc.o
+ .debug_info    0x00002ede      0x24b ./peri_library/peri_src/stm32l1xx_comp.o
+ .debug_info    0x00003129      0x204 ./peri_library/peri_src/stm32l1xx_crc.o
+ .debug_info    0x0000332d      0x677 ./peri_library/peri_src/stm32l1xx_dac.o
+ .debug_info    0x000039a4      0x1e6 ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+ .debug_info    0x00003b8a      0x4a1 ./peri_library/peri_src/stm32l1xx_dma.o
+ .debug_info    0x0000402b      0x366 ./peri_library/peri_src/stm32l1xx_exti.o
+ .debug_info    0x00004391      0x9cd ./peri_library/peri_src/stm32l1xx_flash.o
+ .debug_info    0x00004d5e      0x323 ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+ .debug_info    0x00005081      0x628 ./peri_library/peri_src/stm32l1xx_gpio.o
+ .debug_info    0x000056a9      0xb4a ./peri_library/peri_src/stm32l1xx_i2c.o
+ .debug_info    0x000061f3      0x202 ./peri_library/peri_src/stm32l1xx_iwdg.o
+ .debug_info    0x000063f5      0x4dd ./peri_library/peri_src/stm32l1xx_lcd.o
+ .debug_info    0x000068d2      0x57b ./peri_library/peri_src/stm32l1xx_pwr.o
+ .debug_info    0x00006e4d      0xa74 ./peri_library/peri_src/stm32l1xx_rcc.o
+ .debug_info    0x000078c1      0xefa ./peri_library/peri_src/stm32l1xx_rtc.o
+ .debug_info    0x000087bb      0x76c ./peri_library/peri_src/stm32l1xx_spi.o
+ .debug_info    0x00008f27      0x3f3 ./peri_library/peri_src/stm32l1xx_syscfg.o
+ .debug_info    0x0000931a     0x1b42 ./peri_library/peri_src/stm32l1xx_tim.o
+ .debug_info    0x0000ae5c      0xa43 ./peri_library/peri_src/stm32l1xx_usart.o
+ .debug_info    0x0000b89f      0x24c ./peri_library/peri_src/stm32l1xx_wwdg.o
+
+.debug_line     0x00000000     0x7657
+ .debug_line    0x00000000      0x1a9 ./src/core_cm3.o
+ .debug_line    0x000001a9      0x45e ./src/main.o
+ .debug_line    0x00000607      0x3ee ./src/stm32l1xx_it.o
+ .debug_line    0x000009f5      0x548 ./src/stm32l_discovery_lcd.o
+ .debug_line    0x00000f3d      0x41f ./src/system_stm32l1xx.o
+ .debug_line    0x0000135c      0x3d6 ./peri_library/peri_src/misc.o
+ .debug_line    0x00001732      0x53a ./peri_library/peri_src/stm32l1xx_adc.o
+ .debug_line    0x00001c6c      0x3e7 ./peri_library/peri_src/stm32l1xx_comp.o
+ .debug_line    0x00002053      0x3dd ./peri_library/peri_src/stm32l1xx_crc.o
+ .debug_line    0x00002430      0x444 ./peri_library/peri_src/stm32l1xx_dac.o
+ .debug_line    0x00002874      0x3d3 ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+ .debug_line    0x00002c47      0x432 ./peri_library/peri_src/stm32l1xx_dma.o
+ .debug_line    0x00003079      0x405 ./peri_library/peri_src/stm32l1xx_exti.o
+ .debug_line    0x0000347e      0x512 ./peri_library/peri_src/stm32l1xx_flash.o
+ .debug_line    0x00003990      0x424 ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+ .debug_line    0x00003db4      0x441 ./peri_library/peri_src/stm32l1xx_gpio.o
+ .debug_line    0x000041f5      0x4d5 ./peri_library/peri_src/stm32l1xx_i2c.o
+ .debug_line    0x000046ca      0x3d7 ./peri_library/peri_src/stm32l1xx_iwdg.o
+ .debug_line    0x00004aa1      0x438 ./peri_library/peri_src/stm32l1xx_lcd.o
+ .debug_line    0x00004ed9      0x42e ./peri_library/peri_src/stm32l1xx_pwr.o
+ .debug_line    0x00005307      0x4f1 ./peri_library/peri_src/stm32l1xx_rcc.o
+ .debug_line    0x000057f8      0x652 ./peri_library/peri_src/stm32l1xx_rtc.o
+ .debug_line    0x00005e4a      0x462 ./peri_library/peri_src/stm32l1xx_spi.o
+ .debug_line    0x000062ac      0x42b ./peri_library/peri_src/stm32l1xx_syscfg.o
+ .debug_line    0x000066d7      0x6d3 ./peri_library/peri_src/stm32l1xx_tim.o
+ .debug_line    0x00006daa      0x4c7 ./peri_library/peri_src/stm32l1xx_usart.o
+ .debug_line    0x00007271      0x3e6 ./peri_library/peri_src/stm32l1xx_wwdg.o
+
+.debug_macinfo  0x00000000   0x67e1f3
+ .debug_macinfo
+                0x00000000     0x2af1 ./src/core_cm3.o
+ .debug_macinfo
+                0x00002af1    0x402eb ./src/main.o
+ .debug_macinfo
+                0x00042ddc    0x3fbf0 ./src/stm32l1xx_it.o
+ .debug_macinfo
+                0x000829cc    0x3ff5c ./src/stm32l_discovery_lcd.o
+ .debug_macinfo
+                0x000c2928    0x3fbee ./src/system_stm32l1xx.o
+ .debug_macinfo
+                0x00102516    0x3fc08 ./peri_library/peri_src/misc.o
+ .debug_macinfo
+                0x0014211e    0x3ff39 ./peri_library/peri_src/stm32l1xx_adc.o
+ .debug_macinfo
+                0x00182057    0x3fbdc ./peri_library/peri_src/stm32l1xx_comp.o
+ .debug_macinfo
+                0x001c1c33    0x3fbdc ./peri_library/peri_src/stm32l1xx_crc.o
+ .debug_macinfo
+                0x0020180f    0x3fcf4 ./peri_library/peri_src/stm32l1xx_dac.o
+ .debug_macinfo
+                0x00241503    0x3fc07 ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+ .debug_macinfo
+                0x0028110a    0x3fedc ./peri_library/peri_src/stm32l1xx_dma.o
+ .debug_macinfo
+                0x002c0fe6    0x3fc00 ./peri_library/peri_src/stm32l1xx_exti.o
+ .debug_macinfo
+                0x00300be6    0x3fc48 ./peri_library/peri_src/stm32l1xx_flash.o
+ .debug_macinfo
+                0x0034082e    0x3fbdc ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+ .debug_macinfo
+                0x0038040a    0x3fbdc ./peri_library/peri_src/stm32l1xx_gpio.o
+ .debug_macinfo
+                0x003bffe6    0x3fc46 ./peri_library/peri_src/stm32l1xx_i2c.o
+ .debug_macinfo
+                0x003ffc2c    0x3fc22 ./peri_library/peri_src/stm32l1xx_iwdg.o
+ .debug_macinfo
+                0x0043f84e    0x3feb9 ./peri_library/peri_src/stm32l1xx_lcd.o
+ .debug_macinfo
+                0x0047f707    0x3fe80 ./peri_library/peri_src/stm32l1xx_pwr.o
+ .debug_macinfo
+                0x004bf587    0x40040 ./peri_library/peri_src/stm32l1xx_rcc.o
+ .debug_macinfo
+                0x004ff5c7    0x3fdca ./peri_library/peri_src/stm32l1xx_rtc.o
+ .debug_macinfo
+                0x0053f391    0x3fc00 ./peri_library/peri_src/stm32l1xx_spi.o
+ .debug_macinfo
+                0x0057ef91    0x3fc2e ./peri_library/peri_src/stm32l1xx_syscfg.o
+ .debug_macinfo
+                0x005bebbf    0x3fc42 ./peri_library/peri_src/stm32l1xx_tim.o
+ .debug_macinfo
+                0x005fe801    0x3fd08 ./peri_library/peri_src/stm32l1xx_usart.o
+ .debug_macinfo
+                0x0063e509    0x3fcea ./peri_library/peri_src/stm32l1xx_wwdg.o
+
+.debug_loc      0x00000000     0x6af0
+ .debug_loc     0x00000000      0x3f0 ./src/core_cm3.o
+ .debug_loc     0x000003f0      0x20c ./src/main.o
+ .debug_loc     0x000005fc      0x18c ./src/stm32l1xx_it.o
+ .debug_loc     0x00000788      0x1ec ./src/stm32l_discovery_lcd.o
+ .debug_loc     0x00000974       0x9c ./src/system_stm32l1xx.o
+ .debug_loc     0x00000a10      0x118 ./peri_library/peri_src/misc.o
+ .debug_loc     0x00000b28      0x818 ./peri_library/peri_src/stm32l1xx_adc.o
+ .debug_loc     0x00001340      0x144 ./peri_library/peri_src/stm32l1xx_comp.o
+ .debug_loc     0x00001484      0x12c ./peri_library/peri_src/stm32l1xx_crc.o
+ .debug_loc     0x000015b0      0x3ac ./peri_library/peri_src/stm32l1xx_dac.o
+ .debug_loc     0x0000195c      0x100 ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+ .debug_loc     0x00001a5c      0x268 ./peri_library/peri_src/stm32l1xx_dma.o
+ .debug_loc     0x00001cc4      0x1b4 ./peri_library/peri_src/stm32l1xx_exti.o
+ .debug_loc     0x00001e78      0x6f8 ./peri_library/peri_src/stm32l1xx_flash.o
+ .debug_loc     0x00002570      0x150 ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+ .debug_loc     0x000026c0      0x2d8 ./peri_library/peri_src/stm32l1xx_gpio.o
+ .debug_loc     0x00002998      0x700 ./peri_library/peri_src/stm32l1xx_i2c.o
+ .debug_loc     0x00003098      0x138 ./peri_library/peri_src/stm32l1xx_iwdg.o
+ .debug_loc     0x000031d0      0x3cc ./peri_library/peri_src/stm32l1xx_lcd.o
+ .debug_loc     0x0000359c      0x350 ./peri_library/peri_src/stm32l1xx_pwr.o
+ .debug_loc     0x000038ec      0x7f4 ./peri_library/peri_src/stm32l1xx_rcc.o
+ .debug_loc     0x000040e0      0x90c ./peri_library/peri_src/stm32l1xx_rtc.o
+ .debug_loc     0x000049ec      0x460 ./peri_library/peri_src/stm32l1xx_spi.o
+ .debug_loc     0x00004e4c      0x250 ./peri_library/peri_src/stm32l1xx_syscfg.o
+ .debug_loc     0x0000509c     0x1260 ./peri_library/peri_src/stm32l1xx_tim.o
+ .debug_loc     0x000062fc      0x658 ./peri_library/peri_src/stm32l1xx_usart.o
+ .debug_loc     0x00006954      0x19c ./peri_library/peri_src/stm32l1xx_wwdg.o
+
+.debug_pubnames
+                0x00000000     0x2cad
+ .debug_pubnames
+                0x00000000      0x159 ./src/core_cm3.o
+ .debug_pubnames
+                0x00000159       0xcc ./src/main.o
+ .debug_pubnames
+                0x00000225       0xc6 ./src/stm32l1xx_it.o
+ .debug_pubnames
+                0x000002eb       0xfc ./src/stm32l_discovery_lcd.o
+ .debug_pubnames
+                0x000003e7       0x71 ./src/system_stm32l1xx.o
+ .debug_pubnames
+                0x00000458       0x89 ./peri_library/peri_src/misc.o
+ .debug_pubnames
+                0x000004e1      0x414 ./peri_library/peri_src/stm32l1xx_adc.o
+ .debug_pubnames
+                0x000008f5       0x82 ./peri_library/peri_src/stm32l1xx_comp.o
+ .debug_pubnames
+                0x00000977       0x82 ./peri_library/peri_src/stm32l1xx_crc.o
+ .debug_pubnames
+                0x000009f9      0x17d ./peri_library/peri_src/stm32l1xx_dac.o
+ .debug_pubnames
+                0x00000b76       0x84 ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+ .debug_pubnames
+                0x00000bfa       0xea ./peri_library/peri_src/stm32l1xx_dma.o
+ .debug_pubnames
+                0x00000ce4       0xbb ./peri_library/peri_src/stm32l1xx_exti.o
+ .debug_pubnames
+                0x00000d9f      0x347 ./peri_library/peri_src/stm32l1xx_flash.o
+ .debug_pubnames
+                0x000010e6       0x88 ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+ .debug_pubnames
+                0x0000116e      0x119 ./peri_library/peri_src/stm32l1xx_gpio.o
+ .debug_pubnames
+                0x00001287      0x2b0 ./peri_library/peri_src/stm32l1xx_i2c.o
+ .debug_pubnames
+                0x00001537       0x91 ./peri_library/peri_src/stm32l1xx_iwdg.o
+ .debug_pubnames
+                0x000015c8      0x181 ./peri_library/peri_src/stm32l1xx_lcd.o
+ .debug_pubnames
+                0x00001749      0x148 ./peri_library/peri_src/stm32l1xx_pwr.o
+ .debug_pubnames
+                0x00001891      0x35b ./peri_library/peri_src/stm32l1xx_rcc.o
+ .debug_pubnames
+                0x00001bec      0x36e ./peri_library/peri_src/stm32l1xx_rtc.o
+ .debug_pubnames
+                0x00001f5a      0x1ca ./peri_library/peri_src/stm32l1xx_spi.o
+ .debug_pubnames
+                0x00002124      0x135 ./peri_library/peri_src/stm32l1xx_syscfg.o
+ .debug_pubnames
+                0x00002259      0x710 ./peri_library/peri_src/stm32l1xx_tim.o
+ .debug_pubnames
+                0x00002969      0x294 ./peri_library/peri_src/stm32l1xx_usart.o
+ .debug_pubnames
+                0x00002bfd       0xb0 ./peri_library/peri_src/stm32l1xx_wwdg.o
+
+.debug_pubtypes
+                0x00000000      0xe5a
+ .debug_pubtypes
+                0x00000000       0x50 ./src/core_cm3.o
+ .debug_pubtypes
+                0x00000050      0x12c ./src/main.o
+ .debug_pubtypes
+                0x0000017c       0x12 ./src/stm32l1xx_it.o
+ .debug_pubtypes
+                0x0000018e       0x76 ./src/stm32l_discovery_lcd.o
+ .debug_pubtypes
+                0x00000204       0x77 ./src/system_stm32l1xx.o
+ .debug_pubtypes
+                0x0000027b       0x80 ./peri_library/peri_src/misc.o
+ .debug_pubtypes
+                0x000002fb       0xbd ./peri_library/peri_src/stm32l1xx_adc.o
+ .debug_pubtypes
+                0x000003b8       0x65 ./peri_library/peri_src/stm32l1xx_comp.o
+ .debug_pubtypes
+                0x0000041d       0x48 ./peri_library/peri_src/stm32l1xx_crc.o
+ .debug_pubtypes
+                0x00000465       0x8c ./peri_library/peri_src/stm32l1xx_dac.o
+ .debug_pubtypes
+                0x000004f1       0x46 ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+ .debug_pubtypes
+                0x00000537       0x98 ./peri_library/peri_src/stm32l1xx_dma.o
+ .debug_pubtypes
+                0x000005cf       0xa2 ./peri_library/peri_src/stm32l1xx_exti.o
+ .debug_pubtypes
+                0x00000671       0x8d ./peri_library/peri_src/stm32l1xx_flash.o
+ .debug_pubtypes
+                0x000006fe       0x63 ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+ .debug_pubtypes
+                0x00000761       0xc2 ./peri_library/peri_src/stm32l1xx_gpio.o
+ .debug_pubtypes
+                0x00000823       0xb2 ./peri_library/peri_src/stm32l1xx_i2c.o
+ .debug_pubtypes
+                0x000008d5       0x58 ./peri_library/peri_src/stm32l1xx_iwdg.o
+ .debug_pubtypes
+                0x0000092d       0x80 ./peri_library/peri_src/stm32l1xx_lcd.o
+ .debug_pubtypes
+                0x000009ad       0x78 ./peri_library/peri_src/stm32l1xx_pwr.o
+ .debug_pubtypes
+                0x00000a25       0x9e ./peri_library/peri_src/stm32l1xx_rcc.o
+ .debug_pubtypes
+                0x00000ac3       0xcc ./peri_library/peri_src/stm32l1xx_rtc.o
+ .debug_pubtypes
+                0x00000b8f       0x8c ./peri_library/peri_src/stm32l1xx_spi.o
+ .debug_pubtypes
+                0x00000c1b       0x7f ./peri_library/peri_src/stm32l1xx_syscfg.o
+ .debug_pubtypes
+                0x00000c9a       0xb4 ./peri_library/peri_src/stm32l1xx_tim.o
+ .debug_pubtypes
+                0x00000d4e       0xc1 ./peri_library/peri_src/stm32l1xx_usart.o
+ .debug_pubtypes
+                0x00000e0f       0x4b ./peri_library/peri_src/stm32l1xx_wwdg.o
+
+.debug_aranges  0x00000000      0x388
+ .debug_aranges
+                0x00000000       0x20 ./src/core_cm3.o
+ .debug_aranges
+                0x00000020       0x20 ./src/main.o
+ .debug_aranges
+                0x00000040       0x20 ./src/stm32l1xx_it.o
+ .debug_aranges
+                0x00000060       0x20 ./src/stm32l_discovery_lcd.o
+ .debug_aranges
+                0x00000080       0x20 ./src/system_stm32l1xx.o
+ .debug_aranges
+                0x000000a0       0x20 ./peri_library/peri_src/misc.o
+ .debug_aranges
+                0x000000c0       0x20 ./peri_library/peri_src/stm32l1xx_adc.o
+ .debug_aranges
+                0x000000e0       0x20 ./peri_library/peri_src/stm32l1xx_comp.o
+ .debug_aranges
+                0x00000100       0x20 ./peri_library/peri_src/stm32l1xx_crc.o
+ .debug_aranges
+                0x00000120       0x20 ./peri_library/peri_src/stm32l1xx_dac.o
+ .debug_aranges
+                0x00000140       0x20 ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+ .debug_aranges
+                0x00000160       0x20 ./peri_library/peri_src/stm32l1xx_dma.o
+ .debug_aranges
+                0x00000180       0x20 ./peri_library/peri_src/stm32l1xx_exti.o
+ .debug_aranges
+                0x000001a0       0x20 ./peri_library/peri_src/stm32l1xx_flash.o
+ .debug_aranges
+                0x000001c0       0x48 ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+ .debug_aranges
+                0x00000208       0x20 ./peri_library/peri_src/stm32l1xx_gpio.o
+ .debug_aranges
+                0x00000228       0x20 ./peri_library/peri_src/stm32l1xx_i2c.o
+ .debug_aranges
+                0x00000248       0x20 ./peri_library/peri_src/stm32l1xx_iwdg.o
+ .debug_aranges
+                0x00000268       0x20 ./peri_library/peri_src/stm32l1xx_lcd.o
+ .debug_aranges
+                0x00000288       0x20 ./peri_library/peri_src/stm32l1xx_pwr.o
+ .debug_aranges
+                0x000002a8       0x20 ./peri_library/peri_src/stm32l1xx_rcc.o
+ .debug_aranges
+                0x000002c8       0x20 ./peri_library/peri_src/stm32l1xx_rtc.o
+ .debug_aranges
+                0x000002e8       0x20 ./peri_library/peri_src/stm32l1xx_spi.o
+ .debug_aranges
+                0x00000308       0x20 ./peri_library/peri_src/stm32l1xx_syscfg.o
+ .debug_aranges
+                0x00000328       0x20 ./peri_library/peri_src/stm32l1xx_tim.o
+ .debug_aranges
+                0x00000348       0x20 ./peri_library/peri_src/stm32l1xx_usart.o
+ .debug_aranges
+                0x00000368       0x20 ./peri_library/peri_src/stm32l1xx_wwdg.o
+
+.debug_str      0x00000000     0x47dc
+ .debug_str     0x00000000      0x208 ./src/core_cm3.o
+                                0x251 (size before relaxing)
+ .debug_str     0x00000208      0x708 ./src/main.o
+                                0x822 (size before relaxing)
+ .debug_str     0x00000910       0xa6 ./src/stm32l1xx_it.o
+                                0x1a5 (size before relaxing)
+ .debug_str     0x000009b6      0x1b6 ./src/stm32l_discovery_lcd.o
+                                0x34c (size before relaxing)
+ .debug_str     0x00000b6c      0x144 ./src/system_stm32l1xx.o
+                                0x2a9 (size before relaxing)
+ .debug_str     0x00000cb0      0x176 ./peri_library/peri_src/misc.o
+                                0x354 (size before relaxing)
+ .debug_str     0x00000e26      0x5fb ./peri_library/peri_src/stm32l1xx_adc.o
+                                0x755 (size before relaxing)
+ .debug_str     0x00001421       0xf8 ./peri_library/peri_src/stm32l1xx_comp.o
+                                0x227 (size before relaxing)
+ .debug_str     0x00001519       0xb0 ./peri_library/peri_src/stm32l1xx_crc.o
+                                0x1cc (size before relaxing)
+ .debug_str     0x000015c9      0x263 ./peri_library/peri_src/stm32l1xx_dac.o
+                                0x3d4 (size before relaxing)
+ .debug_str     0x0000182c       0xbc ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+                                0x1d6 (size before relaxing)
+ .debug_str     0x000018e8      0x1fb ./peri_library/peri_src/stm32l1xx_dma.o
+                                0x349 (size before relaxing)
+ .debug_str     0x00001ae3      0x1ad ./peri_library/peri_src/stm32l1xx_exti.o
+                                0x2ef (size before relaxing)
+ .debug_str     0x00001c90      0x3f1 ./peri_library/peri_src/stm32l1xx_flash.o
+                                0x588 (size before relaxing)
+ .debug_str     0x00002081       0xa8 ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+                                0x2a0 (size before relaxing)
+ .debug_str     0x00002129      0x16d ./peri_library/peri_src/stm32l1xx_gpio.o
+                                0x432 (size before relaxing)
+ .debug_str     0x00002296      0x3b2 ./peri_library/peri_src/stm32l1xx_i2c.o
+                                0x5be (size before relaxing)
+ .debug_str     0x00002648       0xc8 ./peri_library/peri_src/stm32l1xx_iwdg.o
+                                0x1ed (size before relaxing)
+ .debug_str     0x00002710      0x1c8 ./peri_library/peri_src/stm32l1xx_lcd.o
+                                0x381 (size before relaxing)
+ .debug_str     0x000028d8      0x195 ./peri_library/peri_src/stm32l1xx_pwr.o
+                                0x33c (size before relaxing)
+ .debug_str     0x00002a6d      0x3cb ./peri_library/peri_src/stm32l1xx_rcc.o
+                                0x672 (size before relaxing)
+ .debug_str     0x00002e38      0x68f ./peri_library/peri_src/stm32l1xx_rtc.o
+                                0x85b (size before relaxing)
+ .debug_str     0x000034c7      0x292 ./peri_library/peri_src/stm32l1xx_spi.o
+                                0x44d (size before relaxing)
+ .debug_str     0x00003759      0x20a ./peri_library/peri_src/stm32l1xx_syscfg.o
+                                0x349 (size before relaxing)
+ .debug_str     0x00003963      0xa18 ./peri_library/peri_src/stm32l1xx_tim.o
+                                0xc11 (size before relaxing)
+ .debug_str     0x0000437b      0x39d ./peri_library/peri_src/stm32l1xx_usart.o
+                                0x610 (size before relaxing)
+ .debug_str     0x00004718       0xc4 ./peri_library/peri_src/stm32l1xx_wwdg.o
+                                0x203 (size before relaxing)
+
+.comment        0x00000000       0x2a
+ .comment       0x00000000       0x2a ./src/core_cm3.o
+                                 0x2b (size before relaxing)
+ .comment       0x00000000       0x2b ./src/main.o
+ .comment       0x00000000       0x2b ./src/stm32l1xx_it.o
+ .comment       0x00000000       0x2b ./src/stm32l_discovery_lcd.o
+ .comment       0x00000000       0x2b ./src/system_stm32l1xx.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/misc.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_adc.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_comp.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_crc.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_dac.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_dma.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_exti.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_flash.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_gpio.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_i2c.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_iwdg.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_lcd.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_pwr.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_rcc.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_rtc.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_spi.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_syscfg.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_tim.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_usart.o
+ .comment       0x00000000       0x2b ./peri_library/peri_src/stm32l1xx_wwdg.o
+
+.debug_frame    0x00000000     0x3958
+ .debug_frame   0x00000000      0x280 ./src/core_cm3.o
+ .debug_frame   0x00000280      0x134 ./src/main.o
+ .debug_frame   0x000003b4       0xec ./src/stm32l1xx_it.o
+ .debug_frame   0x000004a0      0x124 ./src/stm32l_discovery_lcd.o
+ .debug_frame   0x000005c4       0x64 ./src/system_stm32l1xx.o
+ .debug_frame   0x00000628       0x9c ./peri_library/peri_src/misc.o
+ .debug_frame   0x000006c4      0x420 ./peri_library/peri_src/stm32l1xx_adc.o
+ .debug_frame   0x00000ae4       0xb4 ./peri_library/peri_src/stm32l1xx_comp.o
+ .debug_frame   0x00000b98       0xac ./peri_library/peri_src/stm32l1xx_crc.o
+ .debug_frame   0x00000c44      0x1ec ./peri_library/peri_src/stm32l1xx_dac.o
+ .debug_frame   0x00000e30       0x94 ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+ .debug_frame   0x00000ec4      0x144 ./peri_library/peri_src/stm32l1xx_dma.o
+ .debug_frame   0x00001008       0xec ./peri_library/peri_src/stm32l1xx_exti.o
+ .debug_frame   0x000010f4      0x3e0 ./peri_library/peri_src/stm32l1xx_flash.o
+ .debug_frame   0x000014d4       0xcc ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+ .debug_frame   0x000015a0      0x180 ./peri_library/peri_src/stm32l1xx_gpio.o
+ .debug_frame   0x00001720      0x398 ./peri_library/peri_src/stm32l1xx_i2c.o
+ .debug_frame   0x00001ab8       0xb0 ./peri_library/peri_src/stm32l1xx_iwdg.o
+ .debug_frame   0x00001b68      0x204 ./peri_library/peri_src/stm32l1xx_lcd.o
+ .debug_frame   0x00001d6c      0x1d0 ./peri_library/peri_src/stm32l1xx_pwr.o
+ .debug_frame   0x00001f3c      0x414 ./peri_library/peri_src/stm32l1xx_rcc.o
+ .debug_frame   0x00002350      0x4cc ./peri_library/peri_src/stm32l1xx_rtc.o
+ .debug_frame   0x0000281c      0x244 ./peri_library/peri_src/stm32l1xx_spi.o
+ .debug_frame   0x00002a60      0x144 ./peri_library/peri_src/stm32l1xx_syscfg.o
+ .debug_frame   0x00002ba4      0x95c ./peri_library/peri_src/stm32l1xx_tim.o
+ .debug_frame   0x00003500      0x344 ./peri_library/peri_src/stm32l1xx_usart.o
+ .debug_frame   0x00003844       0xe8 ./peri_library/peri_src/stm32l1xx_wwdg.o
+ .debug_frame   0x0000392c       0x2c /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-init.o)
+
+.debug_ranges   0x00000000       0x38
+ .debug_ranges  0x00000000       0x38 ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+
+Cross Reference Table
+
+Symbol                                            File
+ADC1_IRQHandler                                   ./src/startup_stm32l1xx_md.o
+ADC_AnalogWatchdogCmd                             ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_AnalogWatchdogSingleChannelConfig             ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_AnalogWatchdogThresholdsConfig                ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_AutoInjectedConvCmd                           ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_ClearFlag                                     ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_ClearITPendingBit                             ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_Cmd                                           ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_CommonInit                                    ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_CommonStructInit                              ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_ContinuousModeCmd                             ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_DMACmd                                        ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_DMARequestAfterLastTransferCmd                ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_DeInit                                        ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_DelaySelectionConfig                          ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_DiscModeChannelCountConfig                    ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_DiscModeCmd                                   ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_EOCOnEachRegularChannelCmd                    ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_ExternalTrigInjectedConvConfig                ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_ExternalTrigInjectedConvEdgeConfig            ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_GetConversionValue                            ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_GetFlagStatus                                 ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_GetITStatus                                   ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_GetInjectedConversionValue                    ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_GetSoftwareStartConvStatus                    ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_GetSoftwareStartInjectedConvCmdStatus         ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_ITConfig                                      ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_Init                                          ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_InjectedChannelConfig                         ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_InjectedDiscModeCmd                           ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_InjectedSequencerLengthConfig                 ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_PowerDownCmd                                  ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_RegularChannelConfig                          ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_SetInjectedOffset                             ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_SoftwareStartConv                             ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_SoftwareStartInjectedConv                     ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_StructInit                                    ./peri_library/peri_src/stm32l1xx_adc.o
+ADC_TempSensorVrefintCmd                          ./peri_library/peri_src/stm32l1xx_adc.o
+AHBPrescTable                                     ./src/system_stm32l1xx.o
+BusFault_Handler                                  ./src/stm32l1xx_it.o
+                                                  ./src/startup_stm32l1xx_md.o
+COMP_Cmd                                          ./peri_library/peri_src/stm32l1xx_comp.o
+COMP_DeInit                                       ./peri_library/peri_src/stm32l1xx_comp.o
+COMP_GetOutputLevel                               ./peri_library/peri_src/stm32l1xx_comp.o
+COMP_IRQHandler                                   ./src/startup_stm32l1xx_md.o
+COMP_Init                                         ./peri_library/peri_src/stm32l1xx_comp.o
+COMP_VrefintOutputCmd                             ./peri_library/peri_src/stm32l1xx_comp.o
+COMP_WindowCmd                                    ./peri_library/peri_src/stm32l1xx_comp.o
+CRC_CalcBlockCRC                                  ./peri_library/peri_src/stm32l1xx_crc.o
+CRC_CalcCRC                                       ./peri_library/peri_src/stm32l1xx_crc.o
+CRC_GetCRC                                        ./peri_library/peri_src/stm32l1xx_crc.o
+CRC_GetIDRegister                                 ./peri_library/peri_src/stm32l1xx_crc.o
+CRC_ResetDR                                       ./peri_library/peri_src/stm32l1xx_crc.o
+CRC_SetIDRegister                                 ./peri_library/peri_src/stm32l1xx_crc.o
+CapLetterMap                                      ./src/stm32l_discovery_lcd.o
+Config_Systick                                    ./src/main.o
+DAC_ClearFlag                                     ./peri_library/peri_src/stm32l1xx_dac.o
+DAC_ClearITPendingBit                             ./peri_library/peri_src/stm32l1xx_dac.o
+DAC_Cmd                                           ./peri_library/peri_src/stm32l1xx_dac.o
+DAC_DMACmd                                        ./peri_library/peri_src/stm32l1xx_dac.o
+DAC_DeInit                                        ./peri_library/peri_src/stm32l1xx_dac.o
+DAC_DualSoftwareTriggerCmd                        ./peri_library/peri_src/stm32l1xx_dac.o
+DAC_GetDataOutputValue                            ./peri_library/peri_src/stm32l1xx_dac.o
+DAC_GetFlagStatus                                 ./peri_library/peri_src/stm32l1xx_dac.o
+DAC_GetITStatus                                   ./peri_library/peri_src/stm32l1xx_dac.o
+DAC_IRQHandler                                    ./src/startup_stm32l1xx_md.o
+DAC_ITConfig                                      ./peri_library/peri_src/stm32l1xx_dac.o
+DAC_Init                                          ./peri_library/peri_src/stm32l1xx_dac.o
+DAC_SetChannel1Data                               ./peri_library/peri_src/stm32l1xx_dac.o
+DAC_SetChannel2Data                               ./peri_library/peri_src/stm32l1xx_dac.o
+DAC_SetDualChannelData                            ./peri_library/peri_src/stm32l1xx_dac.o
+DAC_SoftwareTriggerCmd                            ./peri_library/peri_src/stm32l1xx_dac.o
+DAC_StructInit                                    ./peri_library/peri_src/stm32l1xx_dac.o
+DAC_WaveGenerationCmd                             ./peri_library/peri_src/stm32l1xx_dac.o
+DATA_EEPROM_EraseDoubleWord                       ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+DATA_EEPROM_EraseWord                             ./peri_library/peri_src/stm32l1xx_flash.o
+DATA_EEPROM_FastProgramByte                       ./peri_library/peri_src/stm32l1xx_flash.o
+DATA_EEPROM_FastProgramHalfWord                   ./peri_library/peri_src/stm32l1xx_flash.o
+DATA_EEPROM_FastProgramWord                       ./peri_library/peri_src/stm32l1xx_flash.o
+DATA_EEPROM_FixedTimeProgramCmd                   ./peri_library/peri_src/stm32l1xx_flash.o
+DATA_EEPROM_Lock                                  ./peri_library/peri_src/stm32l1xx_flash.o
+DATA_EEPROM_ProgramByte                           ./peri_library/peri_src/stm32l1xx_flash.o
+DATA_EEPROM_ProgramDoubleWord                     ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+DATA_EEPROM_ProgramHalfWord                       ./peri_library/peri_src/stm32l1xx_flash.o
+DATA_EEPROM_ProgramWord                           ./peri_library/peri_src/stm32l1xx_flash.o
+DATA_EEPROM_Unlock                                ./peri_library/peri_src/stm32l1xx_flash.o
+DBGMCU_APB1PeriphConfig                           ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+DBGMCU_APB2PeriphConfig                           ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+DBGMCU_Config                                     ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+DBGMCU_GetDEVID                                   ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+DBGMCU_GetREVID                                   ./peri_library/peri_src/stm32l1xx_dbgmcu.o
+DMA1_Channel1_IRQHandler                          ./src/startup_stm32l1xx_md.o
+DMA1_Channel2_IRQHandler                          ./src/startup_stm32l1xx_md.o
+DMA1_Channel3_IRQHandler                          ./src/startup_stm32l1xx_md.o
+DMA1_Channel4_IRQHandler                          ./src/startup_stm32l1xx_md.o
+DMA1_Channel5_IRQHandler                          ./src/startup_stm32l1xx_md.o
+DMA1_Channel6_IRQHandler                          ./src/startup_stm32l1xx_md.o
+DMA1_Channel7_IRQHandler                          ./src/startup_stm32l1xx_md.o
+DMA_ClearFlag                                     ./peri_library/peri_src/stm32l1xx_dma.o
+DMA_ClearITPendingBit                             ./peri_library/peri_src/stm32l1xx_dma.o
+DMA_Cmd                                           ./peri_library/peri_src/stm32l1xx_dma.o
+DMA_DeInit                                        ./peri_library/peri_src/stm32l1xx_dma.o
+DMA_GetCurrDataCounter                            ./peri_library/peri_src/stm32l1xx_dma.o
+DMA_GetFlagStatus                                 ./peri_library/peri_src/stm32l1xx_dma.o
+DMA_GetITStatus                                   ./peri_library/peri_src/stm32l1xx_dma.o
+DMA_ITConfig                                      ./peri_library/peri_src/stm32l1xx_dma.o
+DMA_Init                                          ./peri_library/peri_src/stm32l1xx_dma.o
+DMA_SetCurrDataCounter                            ./peri_library/peri_src/stm32l1xx_dma.o
+DMA_StructInit                                    ./peri_library/peri_src/stm32l1xx_dma.o
+DebugMon_Handler                                  ./src/stm32l1xx_it.o
+                                                  ./src/startup_stm32l1xx_md.o
+Default_Handler                                   ./src/startup_stm32l1xx_md.o
+Delay                                             ./src/main.o
+                                                  ./src/stm32l_discovery_lcd.o
+EXTI0_IRQHandler                                  ./src/startup_stm32l1xx_md.o
+EXTI15_10_IRQHandler                              ./src/startup_stm32l1xx_md.o
+EXTI1_IRQHandler                                  ./src/startup_stm32l1xx_md.o
+EXTI2_IRQHandler                                  ./src/startup_stm32l1xx_md.o
+EXTI3_IRQHandler                                  ./src/startup_stm32l1xx_md.o
+EXTI4_IRQHandler                                  ./src/startup_stm32l1xx_md.o
+EXTI9_5_IRQHandler                                ./src/startup_stm32l1xx_md.o
+EXTI_ClearFlag                                    ./peri_library/peri_src/stm32l1xx_exti.o
+EXTI_ClearITPendingBit                            ./peri_library/peri_src/stm32l1xx_exti.o
+EXTI_DeInit                                       ./peri_library/peri_src/stm32l1xx_exti.o
+EXTI_GenerateSWInterrupt                          ./peri_library/peri_src/stm32l1xx_exti.o
+EXTI_GetFlagStatus                                ./peri_library/peri_src/stm32l1xx_exti.o
+EXTI_GetITStatus                                  ./peri_library/peri_src/stm32l1xx_exti.o
+EXTI_Init                                         ./peri_library/peri_src/stm32l1xx_exti.o
+EXTI_StructInit                                   ./peri_library/peri_src/stm32l1xx_exti.o
+FLASH_ClearFlag                                   ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_ErasePage                                   ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_FastProgramWord                             ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_GetFlagStatus                               ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_GetStatus                                   ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_IRQHandler                                  ./src/startup_stm32l1xx_md.o
+FLASH_ITConfig                                    ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_Lock                                        ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_OB_BORConfig                                ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_OB_GetBOR                                   ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_OB_GetRDP                                   ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_OB_GetUser                                  ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_OB_GetWRP                                   ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_OB_Launch                                   ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_OB_Lock                                     ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_OB_RDPConfig                                ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_OB_Unlock                                   ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_OB_UserConfig                               ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_OB_WRPConfig                                ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_PrefetchBufferCmd                           ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_ProgramHalfPage                             ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+FLASH_RUNPowerDownCmd                             ./peri_library/peri_src/stm32l1xx_flash_ramfunc.o
+FLASH_ReadAccess64Cmd                             ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_SLEEPPowerDownCmd                           ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_SetLatency                                  ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_Unlock                                      ./peri_library/peri_src/stm32l1xx_flash.o
+FLASH_WaitForLastOperation                        ./peri_library/peri_src/stm32l1xx_flash.o
+GPIO_DeInit                                       ./peri_library/peri_src/stm32l1xx_gpio.o
+GPIO_Init                                         ./peri_library/peri_src/stm32l1xx_gpio.o
+                                                  ./src/main.o
+GPIO_PinAFConfig                                  ./peri_library/peri_src/stm32l1xx_gpio.o
+GPIO_PinLockConfig                                ./peri_library/peri_src/stm32l1xx_gpio.o
+GPIO_ReadInputData                                ./peri_library/peri_src/stm32l1xx_gpio.o
+GPIO_ReadInputDataBit                             ./peri_library/peri_src/stm32l1xx_gpio.o
+GPIO_ReadOutputData                               ./peri_library/peri_src/stm32l1xx_gpio.o
+GPIO_ReadOutputDataBit                            ./peri_library/peri_src/stm32l1xx_gpio.o
+GPIO_ResetBits                                    ./peri_library/peri_src/stm32l1xx_gpio.o
+GPIO_SetBits                                      ./peri_library/peri_src/stm32l1xx_gpio.o
+GPIO_StructInit                                   ./peri_library/peri_src/stm32l1xx_gpio.o
+GPIO_Write                                        ./peri_library/peri_src/stm32l1xx_gpio.o
+GPIO_WriteBit                                     ./peri_library/peri_src/stm32l1xx_gpio.o
+HardFault_Handler                                 ./src/stm32l1xx_it.o
+                                                  ./src/startup_stm32l1xx_md.o
+I2C1_ER_IRQHandler                                ./src/startup_stm32l1xx_md.o
+I2C1_EV_IRQHandler                                ./src/startup_stm32l1xx_md.o
+I2C2_ER_IRQHandler                                ./src/startup_stm32l1xx_md.o
+I2C2_EV_IRQHandler                                ./src/startup_stm32l1xx_md.o
+I2C_ARPCmd                                        ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_AcknowledgeConfig                             ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_CalculatePEC                                  ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_CheckEvent                                    ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_ClearFlag                                     ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_ClearITPendingBit                             ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_Cmd                                           ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_DMACmd                                        ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_DMALastTransferCmd                            ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_DeInit                                        ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_DualAddressCmd                                ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_FastModeDutyCycleConfig                       ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_GeneralCallCmd                                ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_GenerateSTART                                 ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_GenerateSTOP                                  ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_GetFlagStatus                                 ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_GetITStatus                                   ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_GetLastEvent                                  ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_GetPEC                                        ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_ITConfig                                      ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_Init                                          ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_OwnAddress2Config                             ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_PECPositionConfig                             ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_ReadRegister                                  ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_ReceiveData                                   ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_SMBusAlertConfig                              ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_Send7bitAddress                               ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_SendData                                      ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_SoftwareResetCmd                              ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_StretchClockCmd                               ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_StructInit                                    ./peri_library/peri_src/stm32l1xx_i2c.o
+I2C_TransmitPEC                                   ./peri_library/peri_src/stm32l1xx_i2c.o
+IWDG_Enable                                       ./peri_library/peri_src/stm32l1xx_iwdg.o
+IWDG_GetFlagStatus                                ./peri_library/peri_src/stm32l1xx_iwdg.o
+IWDG_ReloadCounter                                ./peri_library/peri_src/stm32l1xx_iwdg.o
+IWDG_SetPrescaler                                 ./peri_library/peri_src/stm32l1xx_iwdg.o
+IWDG_SetReload                                    ./peri_library/peri_src/stm32l1xx_iwdg.o
+IWDG_WriteAccessCmd                               ./peri_library/peri_src/stm32l1xx_iwdg.o
+Init_GPIOs                                        ./src/main.o
+KeyPressed                                        ./src/main.o
+LCD_BlinkConfig                                   ./peri_library/peri_src/stm32l1xx_lcd.o
+                                                  ./src/stm32l_discovery_lcd.o
+LCD_ClearFlag                                     ./peri_library/peri_src/stm32l1xx_lcd.o
+LCD_ClearITPendingBit                             ./peri_library/peri_src/stm32l1xx_lcd.o
+LCD_Cmd                                           ./peri_library/peri_src/stm32l1xx_lcd.o
+                                                  ./src/stm32l_discovery_lcd.o
+LCD_ContrastConfig                                ./peri_library/peri_src/stm32l1xx_lcd.o
+                                                  ./src/stm32l_discovery_lcd.o
+LCD_DeInit                                        ./peri_library/peri_src/stm32l1xx_lcd.o
+LCD_DeadTimeConfig                                ./peri_library/peri_src/stm32l1xx_lcd.o
+                                                  ./src/stm32l_discovery_lcd.o
+LCD_GLASS_Clear                                   ./src/stm32l_discovery_lcd.o
+LCD_GLASS_DisplayStrDeci                          ./src/stm32l_discovery_lcd.o
+LCD_GLASS_DisplayString                           ./src/stm32l_discovery_lcd.o
+LCD_GLASS_Init                                    ./src/stm32l_discovery_lcd.o
+LCD_GLASS_ScrollSentence                          ./src/stm32l_discovery_lcd.o
+LCD_GLASS_WriteChar                               ./src/stm32l_discovery_lcd.o
+LCD_GetFlagStatus                                 ./peri_library/peri_src/stm32l1xx_lcd.o
+                                                  ./src/stm32l_discovery_lcd.o
+LCD_GetITStatus                                   ./peri_library/peri_src/stm32l1xx_lcd.o
+LCD_HighDriveCmd                                  ./peri_library/peri_src/stm32l1xx_lcd.o
+LCD_IRQHandler                                    ./src/startup_stm32l1xx_md.o
+LCD_ITConfig                                      ./peri_library/peri_src/stm32l1xx_lcd.o
+LCD_Init                                          ./peri_library/peri_src/stm32l1xx_lcd.o
+                                                  ./src/stm32l_discovery_lcd.o
+LCD_MuxSegmentCmd                                 ./peri_library/peri_src/stm32l1xx_lcd.o
+                                                  ./src/stm32l_discovery_lcd.o
+LCD_PulseOnDurationConfig                         ./peri_library/peri_src/stm32l1xx_lcd.o
+                                                  ./src/stm32l_discovery_lcd.o
+LCD_StructInit                                    ./peri_library/peri_src/stm32l1xx_lcd.o
+LCD_UpdateDisplayRequest                          ./peri_library/peri_src/stm32l1xx_lcd.o
+                                                  ./src/stm32l_discovery_lcd.o
+LCD_WaitForSynchro                                ./peri_library/peri_src/stm32l1xx_lcd.o
+                                                  ./src/stm32l_discovery_lcd.o
+LCD_Write                                         ./peri_library/peri_src/stm32l1xx_lcd.o
+LCD_bar                                           ./src/stm32l_discovery_lcd.o
+LCD_contrast                                      ./src/stm32l_discovery_lcd.o
+MemManage_Handler                                 ./src/stm32l1xx_it.o
+                                                  ./src/startup_stm32l1xx_md.o
+NMI_Handler                                       ./src/stm32l1xx_it.o
+                                                  ./src/startup_stm32l1xx_md.o
+NVIC_Init                                         ./peri_library/peri_src/misc.o
+NVIC_PriorityGroupConfig                          ./peri_library/peri_src/misc.o
+NVIC_SetVectorTable                               ./peri_library/peri_src/misc.o
+NVIC_SystemLPConfig                               ./peri_library/peri_src/misc.o
+NumberMap                                         ./src/stm32l_discovery_lcd.o
+PLLMulTable                                       ./src/system_stm32l1xx.o
+PVD_IRQHandler                                    ./src/startup_stm32l1xx_md.o
+PWR_ClearFlag                                     ./peri_library/peri_src/stm32l1xx_pwr.o
+PWR_DeInit                                        ./peri_library/peri_src/stm32l1xx_pwr.o
+PWR_EnterLowPowerRunMode                          ./peri_library/peri_src/stm32l1xx_pwr.o
+PWR_EnterSTANDBYMode                              ./peri_library/peri_src/stm32l1xx_pwr.o
+PWR_EnterSTOPMode                                 ./peri_library/peri_src/stm32l1xx_pwr.o
+PWR_EnterSleepMode                                ./peri_library/peri_src/stm32l1xx_pwr.o
+PWR_FastWakeUpCmd                                 ./peri_library/peri_src/stm32l1xx_pwr.o
+PWR_GetFlagStatus                                 ./peri_library/peri_src/stm32l1xx_pwr.o
+PWR_PVDCmd                                        ./peri_library/peri_src/stm32l1xx_pwr.o
+PWR_PVDLevelConfig                                ./peri_library/peri_src/stm32l1xx_pwr.o
+PWR_RTCAccessCmd                                  ./peri_library/peri_src/stm32l1xx_pwr.o
+                                                  ./src/main.o
+PWR_UltraLowPowerCmd                              ./peri_library/peri_src/stm32l1xx_pwr.o
+PWR_VoltageScalingConfig                          ./peri_library/peri_src/stm32l1xx_pwr.o
+PWR_WakeUpPinCmd                                  ./peri_library/peri_src/stm32l1xx_pwr.o
+PendSV_Handler                                    ./src/stm32l1xx_it.o
+                                                  ./src/startup_stm32l1xx_md.o
+RCC_AHBPeriphClockCmd                             ./peri_library/peri_src/stm32l1xx_rcc.o
+                                                  ./src/main.o
+RCC_AHBPeriphClockLPModeCmd                       ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_AHBPeriphResetCmd                             ./peri_library/peri_src/stm32l1xx_rcc.o
+                                                  ./peri_library/peri_src/stm32l1xx_gpio.o
+RCC_APB1PeriphClockCmd                            ./peri_library/peri_src/stm32l1xx_rcc.o
+                                                  ./src/main.o
+RCC_APB1PeriphClockLPModeCmd                      ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_APB1PeriphResetCmd                            ./peri_library/peri_src/stm32l1xx_rcc.o
+                                                  ./peri_library/peri_src/stm32l1xx_wwdg.o
+                                                  ./peri_library/peri_src/stm32l1xx_usart.o
+                                                  ./peri_library/peri_src/stm32l1xx_tim.o
+                                                  ./peri_library/peri_src/stm32l1xx_spi.o
+                                                  ./peri_library/peri_src/stm32l1xx_pwr.o
+                                                  ./peri_library/peri_src/stm32l1xx_lcd.o
+                                                  ./peri_library/peri_src/stm32l1xx_i2c.o
+                                                  ./peri_library/peri_src/stm32l1xx_dac.o
+RCC_APB2PeriphClockCmd                            ./peri_library/peri_src/stm32l1xx_rcc.o
+                                                  ./src/main.o
+RCC_APB2PeriphClockLPModeCmd                      ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_APB2PeriphResetCmd                            ./peri_library/peri_src/stm32l1xx_rcc.o
+                                                  ./peri_library/peri_src/stm32l1xx_usart.o
+                                                  ./peri_library/peri_src/stm32l1xx_tim.o
+                                                  ./peri_library/peri_src/stm32l1xx_syscfg.o
+                                                  ./peri_library/peri_src/stm32l1xx_spi.o
+                                                  ./peri_library/peri_src/stm32l1xx_adc.o
+RCC_AdjustHSICalibrationValue                     ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_AdjustMSICalibrationValue                     ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_ClearFlag                                     ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_ClearITPendingBit                             ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_ClockSecuritySystemCmd                        ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_Clocks                                        ./src/main.o
+RCC_Configuration                                 ./src/main.o
+RCC_DeInit                                        ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_GetClocksFreq                                 ./peri_library/peri_src/stm32l1xx_rcc.o
+                                                  ./peri_library/peri_src/stm32l1xx_usart.o
+                                                  ./peri_library/peri_src/stm32l1xx_i2c.o
+                                                  ./src/main.o
+RCC_GetFlagStatus                                 ./peri_library/peri_src/stm32l1xx_rcc.o
+                                                  ./src/main.o
+RCC_GetITStatus                                   ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_GetSYSCLKSource                               ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_HCLKConfig                                    ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_HSEConfig                                     ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_HSICmd                                        ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_IRQHandler                                    ./src/startup_stm32l1xx_md.o
+RCC_ITConfig                                      ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_LSEConfig                                     ./peri_library/peri_src/stm32l1xx_rcc.o
+                                                  ./src/main.o
+RCC_LSICmd                                        ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_MCOConfig                                     ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_MSICmd                                        ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_MSIRangeConfig                                ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_PCLK1Config                                   ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_PCLK2Config                                   ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_PLLCmd                                        ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_PLLConfig                                     ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_RTCCLKCmd                                     ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_RTCCLKConfig                                  ./peri_library/peri_src/stm32l1xx_rcc.o
+                                                  ./src/main.o
+RCC_RTCResetCmd                                   ./peri_library/peri_src/stm32l1xx_rcc.o
+                                                  ./src/main.o
+RCC_SYSCLKConfig                                  ./peri_library/peri_src/stm32l1xx_rcc.o
+RCC_WaitForHSEStartUp                             ./peri_library/peri_src/stm32l1xx_rcc.o
+RTC_AlarmCmd                                      ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_AlarmStructInit                               ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_Alarm_IRQHandler                              ./src/startup_stm32l1xx_md.o
+RTC_CalibOutputCmd                                ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_ClearFlag                                     ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_ClearITPendingBit                             ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_DateStructInit                                ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_DayLightSavingConfig                          ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_DeInit                                        ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_DigitalCalibCmd                               ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_DigitalCalibConfig                            ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_EnterInitMode                                 ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_ExitInitMode                                  ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_GetAlarm                                      ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_GetDate                                       ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_GetFlagStatus                                 ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_GetITStatus                                   ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_GetStoreOperation                             ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_GetTime                                       ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_GetTimeStamp                                  ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_GetWakeUpCounter                              ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_ITConfig                                      ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_Init                                          ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_OutputConfig                                  ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_OutputTypeConfig                              ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_ReadBackupRegister                            ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_RefClockCmd                                   ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_SetAlarm                                      ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_SetDate                                       ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_SetTime                                       ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_SetWakeUpCounter                              ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_StructInit                                    ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_TamperCmd                                     ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_TamperTriggerConfig                           ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_TimeStampCmd                                  ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_TimeStructInit                                ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_WKUP_IRQHandler                               ./src/startup_stm32l1xx_md.o
+RTC_WaitForSynchro                                ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_WakeUpClockConfig                             ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_WakeUpCmd                                     ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_WriteBackupRegister                           ./peri_library/peri_src/stm32l1xx_rtc.o
+RTC_WriteProtectionCmd                            ./peri_library/peri_src/stm32l1xx_rtc.o
+Reset_Handler                                     ./src/startup_stm32l1xx_md.o
+SPI1_IRQHandler                                   ./src/startup_stm32l1xx_md.o
+SPI2_IRQHandler                                   ./src/startup_stm32l1xx_md.o
+SPI_BiDirectionalLineConfig                       ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_CalculateCRC                                  ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_Cmd                                           ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_DataSizeConfig                                ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_GetCRC                                        ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_GetCRCPolynomial                              ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_I2S_ClearFlag                                 ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_I2S_ClearITPendingBit                         ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_I2S_DMACmd                                    ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_I2S_DeInit                                    ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_I2S_GetFlagStatus                             ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_I2S_GetITStatus                               ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_I2S_ITConfig                                  ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_I2S_ReceiveData                               ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_I2S_SendData                                  ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_Init                                          ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_NSSInternalSoftwareConfig                     ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_SSOutputCmd                                   ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_StructInit                                    ./peri_library/peri_src/stm32l1xx_spi.o
+SPI_TransmitCRC                                   ./peri_library/peri_src/stm32l1xx_spi.o
+SVC_Handler                                       ./src/stm32l1xx_it.o
+                                                  ./src/startup_stm32l1xx_md.o
+SYSCFG_DeInit                                     ./peri_library/peri_src/stm32l1xx_syscfg.o
+SYSCFG_EXTILineConfig                             ./peri_library/peri_src/stm32l1xx_syscfg.o
+SYSCFG_MemoryRemapConfig                          ./peri_library/peri_src/stm32l1xx_syscfg.o
+SYSCFG_RIDeInit                                   ./peri_library/peri_src/stm32l1xx_syscfg.o
+SYSCFG_RIHysteresisConfig                         ./peri_library/peri_src/stm32l1xx_syscfg.o
+SYSCFG_RIIOSwitchConfig                           ./peri_library/peri_src/stm32l1xx_syscfg.o
+SYSCFG_RIResistorConfig                           ./peri_library/peri_src/stm32l1xx_syscfg.o
+SYSCFG_RISwitchControlModeCmd                     ./peri_library/peri_src/stm32l1xx_syscfg.o
+SYSCFG_RITIMInputCaptureConfig                    ./peri_library/peri_src/stm32l1xx_syscfg.o
+SYSCFG_RITIMSelect                                ./peri_library/peri_src/stm32l1xx_syscfg.o
+SYSCFG_USBPuCmd                                   ./peri_library/peri_src/stm32l1xx_syscfg.o
+SysTick_CLKSourceConfig                           ./peri_library/peri_src/misc.o
+SysTick_Handler                                   ./src/stm32l1xx_it.o
+                                                  ./src/startup_stm32l1xx_md.o
+SystemCoreClock                                   ./src/system_stm32l1xx.o
+SystemCoreClockUpdate                             ./src/system_stm32l1xx.o
+SystemInit                                        ./src/system_stm32l1xx.o
+                                                  ./src/startup_stm32l1xx_md.o
+TAMPER_STAMP_IRQHandler                           ./src/startup_stm32l1xx_md.o
+TIM10_IRQHandler                                  ./src/startup_stm32l1xx_md.o
+TIM11_IRQHandler                                  ./src/startup_stm32l1xx_md.o
+TIM2_IRQHandler                                   ./src/startup_stm32l1xx_md.o
+TIM3_IRQHandler                                   ./src/startup_stm32l1xx_md.o
+TIM4_IRQHandler                                   ./src/startup_stm32l1xx_md.o
+TIM6_IRQHandler                                   ./src/startup_stm32l1xx_md.o
+TIM7_IRQHandler                                   ./src/startup_stm32l1xx_md.o
+TIM9_IRQHandler                                   ./src/startup_stm32l1xx_md.o
+TIM_ARRPreloadConfig                              ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_CCxCmd                                        ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_ClearFlag                                     ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_ClearITPendingBit                             ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_ClearOC1Ref                                   ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_ClearOC2Ref                                   ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_ClearOC3Ref                                   ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_ClearOC4Ref                                   ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_Cmd                                           ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_CounterModeConfig                             ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_DMACmd                                        ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_DMAConfig                                     ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_DeInit                                        ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_ETRClockMode1Config                           ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_ETRClockMode2Config                           ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_ETRConfig                                     ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_EncoderInterfaceConfig                        ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_ForcedOC1Config                               ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_ForcedOC2Config                               ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_ForcedOC3Config                               ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_ForcedOC4Config                               ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_GenerateEvent                                 ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_GetCapture1                                   ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_GetCapture2                                   ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_GetCapture3                                   ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_GetCapture4                                   ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_GetCounter                                    ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_GetFlagStatus                                 ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_GetITStatus                                   ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_GetPrescaler                                  ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_ICInit                                        ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_ICStructInit                                  ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_ITConfig                                      ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_ITRxExternalClockConfig                       ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_InternalClockConfig                           ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_OC1FastConfig                                 ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_OC1Init                                       ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_OC1PolarityConfig                             ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_OC1PreloadConfig                              ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_OC2FastConfig                                 ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_OC2Init                                       ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_OC2PolarityConfig                             ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_OC2PreloadConfig                              ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_OC3FastConfig                                 ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_OC3Init                                       ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_OC3PolarityConfig                             ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_OC3PreloadConfig                              ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_OC4FastConfig                                 ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_OC4Init                                       ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_OC4PolarityConfig                             ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_OC4PreloadConfig                              ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_OCStructInit                                  ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_PWMIConfig                                    ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_PrescalerConfig                               ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_RemapConfig                                   ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SelectCCDMA                                   ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SelectHallSensor                              ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SelectInputTrigger                            ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SelectMasterSlaveMode                         ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SelectOCREFClear                              ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SelectOCxM                                    ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SelectOnePulseMode                            ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SelectOutputTrigger                           ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SelectSlaveMode                               ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SetAutoreload                                 ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SetClockDivision                              ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SetCompare1                                   ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SetCompare2                                   ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SetCompare3                                   ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SetCompare4                                   ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SetCounter                                    ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SetIC1Prescaler                               ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SetIC2Prescaler                               ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SetIC3Prescaler                               ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_SetIC4Prescaler                               ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_TIxExternalClockConfig                        ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_TimeBaseInit                                  ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_TimeBaseStructInit                            ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_UpdateDisableConfig                           ./peri_library/peri_src/stm32l1xx_tim.o
+TIM_UpdateRequestConfig                           ./peri_library/peri_src/stm32l1xx_tim.o
+TimingDelay_Decrement                             ./src/main.o
+                                                  ./src/stm32l1xx_it.o
+USART1_IRQHandler                                 ./src/startup_stm32l1xx_md.o
+USART2_IRQHandler                                 ./src/startup_stm32l1xx_md.o
+USART3_IRQHandler                                 ./src/startup_stm32l1xx_md.o
+USART_ClearFlag                                   ./peri_library/peri_src/stm32l1xx_usart.o
+USART_ClearITPendingBit                           ./peri_library/peri_src/stm32l1xx_usart.o
+USART_ClockInit                                   ./peri_library/peri_src/stm32l1xx_usart.o
+USART_ClockStructInit                             ./peri_library/peri_src/stm32l1xx_usart.o
+USART_Cmd                                         ./peri_library/peri_src/stm32l1xx_usart.o
+USART_DMACmd                                      ./peri_library/peri_src/stm32l1xx_usart.o
+USART_DeInit                                      ./peri_library/peri_src/stm32l1xx_usart.o
+USART_GetFlagStatus                               ./peri_library/peri_src/stm32l1xx_usart.o
+USART_GetITStatus                                 ./peri_library/peri_src/stm32l1xx_usart.o
+USART_HalfDuplexCmd                               ./peri_library/peri_src/stm32l1xx_usart.o
+USART_ITConfig                                    ./peri_library/peri_src/stm32l1xx_usart.o
+USART_Init                                        ./peri_library/peri_src/stm32l1xx_usart.o
+USART_InitStructure                               ./src/main.o
+USART_IrDACmd                                     ./peri_library/peri_src/stm32l1xx_usart.o
+USART_IrDAConfig                                  ./peri_library/peri_src/stm32l1xx_usart.o
+USART_LINBreakDetectLengthConfig                  ./peri_library/peri_src/stm32l1xx_usart.o
+USART_LINCmd                                      ./peri_library/peri_src/stm32l1xx_usart.o
+USART_OneBitMethodCmd                             ./peri_library/peri_src/stm32l1xx_usart.o
+USART_OverSampling8Cmd                            ./peri_library/peri_src/stm32l1xx_usart.o
+USART_ReceiveData                                 ./peri_library/peri_src/stm32l1xx_usart.o
+USART_ReceiverWakeUpCmd                           ./peri_library/peri_src/stm32l1xx_usart.o
+USART_SendBreak                                   ./peri_library/peri_src/stm32l1xx_usart.o
+USART_SendData                                    ./peri_library/peri_src/stm32l1xx_usart.o
+USART_SetAddress                                  ./peri_library/peri_src/stm32l1xx_usart.o
+USART_SetGuardTime                                ./peri_library/peri_src/stm32l1xx_usart.o
+USART_SetPrescaler                                ./peri_library/peri_src/stm32l1xx_usart.o
+USART_SmartCardCmd                                ./peri_library/peri_src/stm32l1xx_usart.o
+USART_SmartCardNACKCmd                            ./peri_library/peri_src/stm32l1xx_usart.o
+USART_StructInit                                  ./peri_library/peri_src/stm32l1xx_usart.o
+USART_WakeUpConfig                                ./peri_library/peri_src/stm32l1xx_usart.o
+USB_FS_WKUP_IRQHandler                            ./src/startup_stm32l1xx_md.o
+USB_HP_IRQHandler                                 ./src/startup_stm32l1xx_md.o
+USB_LP_IRQHandler                                 ./src/startup_stm32l1xx_md.o
+UsageFault_Handler                                ./src/stm32l1xx_it.o
+                                                  ./src/startup_stm32l1xx_md.o
+WWDG_ClearFlag                                    ./peri_library/peri_src/stm32l1xx_wwdg.o
+WWDG_DeInit                                       ./peri_library/peri_src/stm32l1xx_wwdg.o
+WWDG_Enable                                       ./peri_library/peri_src/stm32l1xx_wwdg.o
+WWDG_EnableIT                                     ./peri_library/peri_src/stm32l1xx_wwdg.o
+WWDG_GetFlagStatus                                ./peri_library/peri_src/stm32l1xx_wwdg.o
+WWDG_IRQHandler                                   ./src/startup_stm32l1xx_md.o
+WWDG_SetCounter                                   ./peri_library/peri_src/stm32l1xx_wwdg.o
+WWDG_SetPrescaler                                 ./peri_library/peri_src/stm32l1xx_wwdg.o
+WWDG_SetWindowValue                               ./peri_library/peri_src/stm32l1xx_wwdg.o
+_Jv_RegisterClasses                               /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+__LDREXB                                          ./src/core_cm3.o
+__LDREXH                                          ./src/core_cm3.o
+__LDREXW                                          ./src/core_cm3.o
+__RBIT                                            ./src/core_cm3.o
+__REV                                             ./src/core_cm3.o
+__REV16                                           ./src/core_cm3.o
+__REVSH                                           ./src/core_cm3.o
+__STREXB                                          ./src/core_cm3.o
+__STREXH                                          ./src/core_cm3.o
+__STREXW                                          ./src/core_cm3.o
+__assert                                          ./src/main.o
+__assert_func                                     ./src/main.o
+__dso_handle                                      /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crtbegin.o
+__get_BASEPRI                                     ./src/core_cm3.o
+__get_CONTROL                                     ./src/core_cm3.o
+__get_FAULTMASK                                   ./src/core_cm3.o
+__get_MSP                                         ./src/core_cm3.o
+__get_PRIMASK                                     ./src/core_cm3.o
+__get_PSP                                         ./src/core_cm3.o
+__init_array_end                                  /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-init.o)
+__init_array_start                                /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-init.o)
+__libc_init_array                                 /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-init.o)
+                                                  ./src/startup_stm32l1xx_md.o
+__preinit_array_end                               /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-init.o)
+__preinit_array_start                             /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-init.o)
+__set_BASEPRI                                     ./src/core_cm3.o
+__set_CONTROL                                     ./src/core_cm3.o
+__set_FAULTMASK                                   ./src/core_cm3.o
+__set_MSP                                         ./src/core_cm3.o
+__set_PRIMASK                                     ./src/core_cm3.o
+__set_PSP                                         ./src/core_cm3.o
+_ebss                                             ./src/startup_stm32l1xx_md.o
+_edata                                            ./src/startup_stm32l1xx_md.o
+_estack                                           ./src/startup_stm32l1xx_md.o
+_fini                                             /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crti.o
+_init                                             /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/thumb2/crti.o
+                                                  /home/cuil/CodeSourcery/Sourcery_G++_Lite/bin/../lib/gcc/arm-none-eabi/4.5.2/../../../../arm-none-eabi/lib/thumb2/libc.a(lib_a-init.o)
+_sbss                                             ./src/startup_stm32l1xx_md.o
+_sdata                                            ./src/startup_stm32l1xx_md.o
+_sidata                                           ./src/startup_stm32l1xx_md.o
+g_pfnVectors                                      ./src/startup_stm32l1xx_md.o
+keypressed                                        ./src/stm32l_discovery_lcd.o
+main                                              ./src/main.o
+                                                  ./src/startup_stm32l1xx_md.o
+t_bar                                             ./src/stm32l_discovery_lcd.o
