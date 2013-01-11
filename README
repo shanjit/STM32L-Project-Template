@@ -2,7 +2,7 @@ Project Template for the ARM based STM32L Discovery Kit.
 
 Created by : Shanjit Singh Jajmann
 	     shanjitsingh@gmail.com
-             https://sites.google.com/site/cuilyahoo/
+             www.shanjitsingh.in
 
 Just import the output folder into Eclipse as an existing Makefile Project to get it up and running at the earliest. 
 
